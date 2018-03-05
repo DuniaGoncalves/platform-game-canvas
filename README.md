@@ -1,6 +1,4 @@
-# platform-game-canvas
-
-# Platform-game
+# Platform-game-canvas
 
 Reading through the Eloquent Javascipt Chapt 15 and following step by step tutorial and implementing things that were introduced in the previous chapters. 
 
